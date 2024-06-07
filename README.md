@@ -1,4 +1,4 @@
-# LLM-Project-End-to-End-LLM-Project-Using-LangChain-Google-Palm
+![image](https://github.com/Neerajjv/LLM-Project-End-to-End-LLM-Project-Using-LangChain-Google-Palm/assets/154986859/3eb1d776-d902-43c7-b79a-c3be744337f9)# LLM-Project-End-to-End-LLM-Project-Using-LangChain-Google-Palm
 # Question Answering System with FAISS and Hugging Face Models
 
 This repository contains code for an end-to-end question-answering system built using LangChain, Google Palm LLM (Large Language Model), FAISS (Facebook AI Similarity Search) and Vector bases
@@ -10,6 +10,8 @@ The project is an end-to-end question-answering system leveraging LangChain for 
 ## LM Project | End to End LLM Project Using LangChain, Google Palm
 
 This project is an example of an end-to-end language model (LLM) project that incorporates LangChain for document loading, Google Palm LLM for language understanding, and FAISS for vector indexing. It demonstrates the process of creating a question-answering system from scratch using standard tools and techniques.
+![image](https://github.com/Neerajjv/LLM-Project-End-to-End-LLM-Project-Using-LangChain-Google-Palm/assets/154986859/770968fb-9d82-4b83-9289-f27af1766b3f)
+
 
 ## Features
 
